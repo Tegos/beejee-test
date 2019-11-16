@@ -8,7 +8,7 @@
     </head>
     <body>
 
-        <div class="container-fluid m-2">
+        <div class="container-fluid">
             <div class="row">
                 <div class="col"><h3>BeeJee Task by <span class="text-success">Zemlyansky Alexander</span></h3></div>
                 <div class="col">
