@@ -1,6 +1,3 @@
-# Тестовое задание компании Bee Jee
-
-
 ## Исполнитель
 Zemlyansky Alexander
 
